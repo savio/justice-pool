@@ -3,3 +3,4 @@ node_modules/
 pool_configs/*.json
 !pool_configs/litecoin_example.json
 !pool_configs/riecoin.json
+npm-debug.log

@@ -1,6 +1,6 @@
 {
-    "name": "ric-nomp",
-    "version": "0.0.4",
+    "name": "justice-pool",
+    "version": "0.0.1",
     "description": "An extremely efficient, highly scalable, all-in-one, easy to setup cryptocurrency mining pool",
     "keywords": [
         "stratum",
@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/vagabondan/ric-nomp",
+    "homepage": "https://github.com/savio/justice-pool",
     "bugs": {
-        "url": "https://github.com/vagabondan/ric-nomp/issues"
+        "url": "https://github.com/savio/justice-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -28,7 +28,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/vagabondan/ric-nomp.git"
+        "url": "https://github.com/savio/justice-pool.git"
     },
     "dependencies": {
         "async": "^2.5.0",
